@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://unpkg.com/ionicons@4.4.4/dist/ionicons.js"></script>
+
+    <link rel="stylesheet" type="text/css" media="screen" href='css/main.css'>
+    <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fredoka+One" rel="stylesheet">
+    <link rel='stylesheet' type="text/css" herf='ionicons.css'>
+    
+</head>
+<body>
+    <!----------------Background image and gradient layer--------------- -->
+<img src="images/XO3.svg" alt="logo" class="oxox">
+<div class="trasnparency"></div>
+
+<main> 
+    <div class="column-left-container">
+<div class="column-left">Player One</div>
+    </div>
+    <div class="grid">
+        <div class="box box1" id='a'></div>
+        <div class="box box2" id='b'></div>
+        <div class="box box3" id='c'></div>
+        <div class="box box4" id='d'></div>
+        <div class="box box5" id='e'></div>
+        <div class="box box6" id='f'></div>
+        <div class="box box7" id='g'></div>
+        <div class="box box8" id='h'></div>
+        <div class="box box9" id='i'></div>
+    </div>
+    <div class="column-right-container">
+        <div class="column-right"> Player Two</div>
+    </div>
+</main>
+<!-- Score container -->
+<div class="score-container">
+    <div class="score score1">SCORE: <span class='score-two'></span></div>
+    <div class="score score2">SCORE: <span class='score-one'></span></div>
+    </div>
+<!-- Opening pages -->
+<div class="opening-page">
+    <img src="images/TTT.svg" alt="Tic Tac Toe" class="TTT">
+    <div class="input-container">
+            <input type="text" class="insertP1" placeholder="Insert Name">
+            <input type="text" class="insertP2" placeholder="Insert Name">
+        </div>
+<button class="start">Start</button>
+</div>
+<!-- Results container -->
+<div class="score-page"> <span class='winner-declaration'></span> <span class="tie-declaration"></span> </span>
+<button class="new-game">Start a New Game?</button>
+<button class="restart">Keep Playing</button>
+</div>
+    <script src='js/app.js'></script>
+</body>
+</html>

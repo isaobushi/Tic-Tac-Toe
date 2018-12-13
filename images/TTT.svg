@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1005px" height="332px" viewBox="0 0 1005 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>TTT</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.9999968%" cy="7.5009%" fx="49.9999968%" fy="7.5009%" r="99.5879484%" gradientTransform="translate(0.500000,0.075009),scale(1.000000,0.898006),rotate(90.000000),translate(-0.500000,-0.075009)" id="radialGradient-1">
+            <stop stop-color="#719865" offset="0%"></stop>
+            <stop stop-color="#8CE440" offset="78.0708092%"></stop>
+            <stop stop-color="#EDFFDB" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#C5CCBC" offset="0%"></stop>
+            <stop stop-color="#C4E89D" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="49.9999968%" cy="7.5009%" fx="49.9999968%" fy="7.5009%" r="108.882663%" gradientTransform="translate(0.500000,0.075009),scale(1.000000,0.821348),rotate(90.000000),translate(-0.500000,-0.075009)" id="radialGradient-3">
+            <stop stop-color="#719865" offset="0%"></stop>
+            <stop stop-color="#8CE440" offset="78.0708092%"></stop>
+            <stop stop-color="#EDFFDB" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="49.9999968%" cy="7.5009%" fx="49.9999968%" fy="7.5009%" r="101.263937%" gradientTransform="translate(0.500000,0.075009),scale(1.000000,0.883143),rotate(90.000000),translate(-0.500000,-0.075009)" id="radialGradient-4">
+            <stop stop-color="#719865" offset="0%"></stop>
+            <stop stop-color="#8CE440" offset="78.0708092%"></stop>
+            <stop stop-color="#EDFFDB" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TTT" transform="translate(-9.000000, -68.000000)">
+            <g transform="translate(0.000000, 66.000000)">
+                <g id="Combined-Shape" stroke-width="1" transform="translate(87.848118, 92.342394) rotate(-18.000000) translate(-87.848118, -92.342394) translate(19.848118, 17.342394)">
+                    <g id="path-3-link" fill="#000000" fill-rule="nonzero">
+                        <path d="M70.7785908,39.4315832 C77.2498409,66.235152 80.485466,86.235152 80.485466,99.431583 C80.485466,114.527937 76.251091,131.194604 67.782341,149.431583 L55.782341,149.431583 L55.782341,39.4315832 L0.782341,39.4315832 L0.782341,27.4315832 C65.5870285,9.2180415 106.253695,0.1112707 122.782341,0.1112707 C139.310987,0.1112707 139.310987,9.2180415 122.782341,27.4315832 L122.782341,39.4315832 L70.7785908,39.4315832 Z" id="path-3"></path>
+                    </g>
+                    <path d="M121.282341,37.9315832 L121.282341,26.852428 L121.671547,26.4235467 C129.695539,17.5816064 133.678825,10.9976044 133.678825,6.9413488 C133.678825,3.4572447 130.328412,1.6112707 122.782341,1.6112707 C106.541227,1.6112707 66.2976153,10.6027434 2.282341,28.5683434 L2.282341,37.9315832 L57.282341,37.9315832 L57.282341,147.931583 L66.8223848,147.931583 C74.9375445,130.220555 78.985466,114.053021 78.985466,99.431583 C78.985466,86.380375 75.7661639,66.48127 69.3204852,39.7836172 L68.8733441,37.9315832 L121.282341,37.9315832 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)"></path>
+                </g>
+                <g id="Combined-Shape-Copy" stroke-width="1" transform="translate(860.937793, 109.527245) rotate(-18.000000) translate(-860.937793, -109.527245) translate(795.937793, 30.027245)">
+                    <g id="path-6-link" fill="#000000" fill-rule="nonzero">
+                        <path d="M71.149965,49.4326595 L71.149965,158.43266 L59.149965,158.43266 C48.04059,141.479535 42.485902,125.479535 42.485902,110.43266 C42.485902,97.36019 46.678491,77.0268569 55.063669,49.4326595 L0.149965,49.4326595 L0.149965,37.4326595 C23.300295,24.8567702 40.685712,16.555989 52.306215,12.5303158 C72.63187,5.4889296 98.323477,0.987347 109.97809,0.987347 C131.627395,0.987347 135.684687,13.1357845 122.149965,37.4326595 L122.149965,49.4326595 L71.149965,49.4326595 Z" id="path-6"></path>
+                    </g>
+                    <path d="M120.649965,47.9326595 L120.649965,37.0430532 L120.839564,36.702693 C133.886195,13.2820164 130.28103,2.487347 109.97809,2.487347 C97.352666,2.487347 71.535213,7.4563029 52.797228,13.9476745 C41.403111,17.8949211 24.342387,26.0237265 1.649965,38.3252934 L1.649965,47.9326595 L57.087206,47.9326595 L56.498868,49.8687804 C48.153387,77.332343 43.985902,97.543928 43.985902,110.43266 C43.985902,124.962318 49.298264,140.460764 59.963046,156.93266 L69.649965,156.93266 L69.649965,47.9326595 L71.149965,47.9326595 L120.649965,47.9326595 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-3)"></path>
+                </g>
+                <g id="Combined-Shape-Copy-2" stroke-width="1" transform="translate(413.910264, 256.708087) rotate(16.000000) translate(-413.910264, -256.708087) translate(341.910264, 175.708087)">
+                    <g id="path-9-link" fill="#000000" fill-rule="nonzero">
+                        <path d="M72.148659,51.368783 L72.148659,161.368783 L60.148659,161.368783 C50.354388,143.077117 45.457253,124.626596 45.457253,106.017221 C45.457253,90.355681 48.925799,72.139535 55.862891,51.368783 L5.148659,51.368783 L5.148659,39.368783 C-4.626514,23.327117 0.846142,15.306283 21.566628,15.306283 C29.767731,15.306283 122.319102,-2.066101 135.054909,0.446908 C148.016129,3.004396 145.380712,15.978354 127.148659,39.368783 L127.148659,51.368783 L72.148659,51.368783 Z" id="path-9"></path>
+                    </g>
+                    <path d="M125.648659,49.868783 L125.648659,38.85324 L125.9656,38.446628 C134.949923,26.92038 140.069463,17.998888 141.329282,11.796894 C142.481568,6.124276 140.428472,3.036133 134.76453,1.918533 C129.65465,0.91026 110.568047,3.169867 78.975905,8.083342 C76.629463,8.448281 74.200319,8.829744 71.647361,9.23388 C65.697778,10.175706 43.722832,13.717262 39.209593,14.42744 C28.861019,16.055834 23.432454,16.806283 21.566628,16.806283 C1.948573,16.806283 -2.695723,23.613055 6.429578,38.588241 L6.648659,38.947766 L6.648659,49.868783 L57.945314,49.868783 L57.285638,51.843958 C50.396243,72.471898 46.957253,90.53282 46.957253,106.017221 C46.957253,124.104189 51.650157,142.049303 61.050125,159.868783 L70.648659,159.868783 L70.648659,49.868783 L125.648659,49.868783 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-4)"></path>
+                </g>
+                <g id="i" stroke-width="1" transform="translate(134.000000, 92.000000)" fill="#677774" font-family="STHeitiSC-Light, Heiti SC" font-size="79" font-weight="300">
+                    <text fill-opacity="0.631255661">
+                        <tspan x="0" y="68">i</tspan>
+                    </text>
+                    <text stroke="#979797" fill-opacity="0">
+                        <tspan x="0" y="68">i</tspan>
+                    </text>
+                </g>
+                <g id="c" stroke-width="1" transform="translate(549.000000, 212.000000)" fill="#677774" fill-opacity="0.631255661" font-family="STHeitiSC-Light, Heiti SC" font-size="79" font-weight="300">
+                    <text>
+                        <tspan x="0" y="68">c</tspan>
+                    </text>
+                    <text>
+                        <tspan x="0" y="68">c</tspan>
+                    </text>
+                </g>
+                <g id="a" stroke-width="1" transform="translate(478.000000, 251.000000)" fill="#677774" fill-opacity="0.631255661" font-family="STHeitiSC-Light, Heiti SC" font-size="79" font-weight="300">
+                    <text>
+                        <tspan x="0.0215" y="68.6555">a</tspan>
+                    </text>
+                    <text>
+                        <tspan x="0.0215" y="68.6555">a</tspan>
+                    </text>
+                </g>
+                <g id="c" stroke-width="1" transform="translate(164.000000, 53.000000)" fill="#677774" fill-opacity="0.631255661" font-family="STHeitiSC-Light, Heiti SC" font-size="79" font-weight="300">
+                    <text>
+                        <tspan x="0.4435" y="68">c</tspan>
+                    </text>
+                    <text>
+                        <tspan x="0.4435" y="68">c</tspan>
+                    </text>
+                </g>
+                <g id="o" stroke-width="1" transform="translate(895.000000, 119.000000)" fill="#677774" fill-opacity="0.631255661" font-family="STHeitiSC-Light, Heiti SC" font-size="79" font-weight="300">
+                    <text>
+                        <tspan x="0.1275" y="68.783578">o</tspan>
+                    </text>
+                    <text>
+                        <tspan x="0.1275" y="68.783578">o</tspan>
+                    </text>
+                </g>
+                <text id="e" fill-opacity="0.631255661" fill="#677774" font-family="STHeitiSC-Light, Heiti SC" font-size="79" font-weight="300">
+                    <tspan x="966.325" y="187.783578">e</tspan>
+                </text>
+                <text id="e" fill-opacity="0.631255661" fill="#677774" font-family="STHeitiSC-Light, Heiti SC" font-size="79" font-weight="300">
+                    <tspan x="966.325" y="187.783578">e</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

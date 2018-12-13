@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="100px" viewBox="0 0 107 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F9DCB6" offset="74.1532695%"></stop>
+            <stop stop-color="#F0B77F" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="40" cy="40" r="40"></circle>
+        <filter x="-16.2%" y="-16.2%" width="142.5%" height="135.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="9" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="7" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="9" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="7" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="O" transform="translate(9.705837, 9.000000)">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use stroke="url(#linearGradient-1)" stroke-width="18" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

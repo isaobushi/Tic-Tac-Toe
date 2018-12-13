@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F9DCB6" offset="0%"></stop>
+            <stop stop-color="#F0B77F" offset="100%"></stop>
+        </linearGradient>
+        <path d="M86.6284578,75.2794685 L138.705837,75.2794685 L138.705837,85.1035891 L86.6284578,85.1035891 L86.6284578,138.705837 L76.8043372,138.705837 L76.8043372,85.1035891 L23.7058373,85.1035891 L23.7058373,75.2794685 L76.8043372,75.2794685 L76.8043372,23.7058373 L86.6284578,23.7058373 L86.6284578,75.2794685 Z" id="path-2"></path>
+        <filter x="-4.8%" y="-5.7%" width="119.1%" height="113.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="9" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="8.064" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="9" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="X" transform="translate(-35.294163, -35.000000)">
+            <g id="Combined-Shape" transform="translate(81.205837, 81.205837) rotate(42.000000) translate(-81.205837, -81.205837) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <path stroke="url(#linearGradient-1)" stroke-width="8.064" d="M82.5964578,27.7378373 L80.8363372,27.7378373 L80.8363372,79.3114685 L27.7378373,79.3114685 L27.7378373,81.0715891 L80.8363372,81.0715891 L80.8363372,134.673837 L82.5964578,134.673837 L82.5964578,81.0715891 L134.673837,81.0715891 L134.673837,79.3114685 L82.5964578,79.3114685 L82.5964578,27.7378373 Z" stroke-linejoin="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
